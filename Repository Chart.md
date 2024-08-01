@@ -1,4 +1,5 @@
 ***The provided Intended text simulates the entire repository of the CODECADEMY CAREER PATH : COMPUTER SCIENCE***
+
 **Every Project consist atleast three files : Code, ReadMe, Code-Explain**
 
 1. [ CS - 101 ] Fundamentals ( Python )

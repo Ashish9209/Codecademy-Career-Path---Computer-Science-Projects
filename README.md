@@ -1,1 +1,3 @@
-This repository contain every project code with their Readme and Explain file in their indented folders according to the course syllabus.
+This repository contains my learning from this course by Codecademy -> https://www.codecademy.com/learn/paths/computer-science
+
+You can view my Codecademy profile here: https://www.codecademy.com/profiles/Aashish9209
