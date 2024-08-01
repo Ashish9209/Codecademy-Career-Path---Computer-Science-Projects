@@ -1,0 +1,44 @@
+SET
+id|description|code|manufacturer_id
+0| 2-color LED| V1-131|8
+1| Passive Buzzer| V1-006|3
+2| 2-color LED| V1-011|8
+3| | V1-031|4
+4| Vibration switch| V1-002|7
+5| Photo resistor| V1-018|5
+6| Key switch| V1-004|3
+7| Tilt switch| V1-020|7
+8| Full-color LED SMD modules| V1-009|8
+9| | V1-005|6
+(10 rows)
+ALTER TABLE
+ALTER TABLE
+UPDATE 0
+ALTER TABLE
+INSERT 0 1
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+INSERT 0 1
+id|name
+1| Pip Industrial
+2| NNC Manufacturing
+3| BBEV Corporation
+4| Tineye Corporation
+5| Tracer Technolgies
+6| BN Metals Corp.
+7| Northern Manufacturing
+8| Western IL Manufacturing
+9| NAU Remote Sensing
+10| Audion Industrial
+11|Pip_NNC Industrial
+(11 rows)
+UPDATE 11
